@@ -2,4 +2,4 @@
 
 This project is deployed in:
 
-https://indrapratamalin.github.io/ExportToGsheet/
+https://indrapratamalin.github.io/ReactToGsheet/
