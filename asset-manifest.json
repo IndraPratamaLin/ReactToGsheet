@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactToGsheet/static/css/main.2662ac9c.css",
+    "main.js": "/ReactToGsheet/static/js/main.59096757.js",
+    "index.html": "/ReactToGsheet/index.html",
+    "main.2662ac9c.css.map": "/ReactToGsheet/static/css/main.2662ac9c.css.map",
+    "main.59096757.js.map": "/ReactToGsheet/static/js/main.59096757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2662ac9c.css",
+    "static/js/main.59096757.js"
+  ]
+}
